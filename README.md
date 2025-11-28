@@ -1,0 +1,1 @@
+# safety-hub-beacon
